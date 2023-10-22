@@ -1,0 +1,10 @@
+{
+    "code": 200,
+    "name": "鬦愔",
+    "url": "https://v.douyin.com/ieEemM35/",
+    "desc": "越南士兵躲在地道里，美军直接束手无策！ #军事科普 #涨知识啦 #地道战",
+    "video": "http://v6-default.365yg.com/11aedf6e1fb696f26f681ffada6c21b7/651837f2/video/tos/cn/tos-cn-ve-15c001-alinc2/owlcL3ARKEb4UfbJAig7I6Q9faBHTCBEaD37fF/?a=0&ch=0&cr=0&dr=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=3200&bt=3200&cs=0&ds=4&ft=rkG4k0071jevGHhWH6xRf.ysXYBO5nt74Gdz7tG&mime_type=video_mp4&qs=0&rc=NTk0M2Y0PDw7OjhlNzQ7aUBpamdvNnU5cjx2bTMzNGkzM0BhNjBfMDAvNjExYWA2NS9gYSM1a2BpMmRjYXJgLS1kLS9zcw%3D%3D&btag=e00028000&dy_q=1696082322&l=202309302158420397A3BC1AD36F48F00C",
+    "cover": "https://p6-pc-sign.douyinpic.com/image-cut-tos-priv/0fff957f1df780151d478aec91c7f352~tplv-dy-resize-origshort-autoq-75:330.jpeg?x-expires=2011438800&x-signature=YoQ68%2Fin69G18aZ4ARyxIq0S5i8%3D&from=3213915784&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2023093021584161499C785BF261855C00",
+    "type": "视频",
+    "date": "2023-09-30 21:58:42"
+}
